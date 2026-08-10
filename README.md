@@ -21,6 +21,12 @@ Run it locally or self-host it on your own infrastructure and access it from any
 
 Open source, multi-provider, no telemetry, not tied to any cloud.
 
+## Interactive architecture map
+
+[![Kandev architecture diagram](docs/architecture/architecture.png)](docs/architecture/architecture.html)
+
+The image links to the committed self-contained map. After cloning or downloading the repository, open [`docs/architecture/architecture.html`](docs/architecture/architecture.html) locally to search components, trace relationships, switch themes, and export the diagram.
+
 ## Vision
 
 > **Humans stay in control.** Define tasks, build agentic workflows with gates, review every change, decide what ships.
